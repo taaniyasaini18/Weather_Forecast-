@@ -1,0 +1,16 @@
+.additionalinfodetails{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: Serif;
+}
+
+.childelement{
+   color: grey;
+}
+
+.jsobjects{
+
+    margin-left: 0%;
+}

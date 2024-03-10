@@ -1,0 +1,48 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.Page-1_Background{
+        
+    
+    background-image: url('../assets/Front_Image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+}
+
+.cross::before {
+    content: "\2716";
+    
+}
+
+.box1{
+    display: flex;
+    align-self: flex-end;
+    right:30px;
+    top:20px;
+    justify-content: right;
+    position: absolute;
+}
+
+.Textbox{
+    
+    background-color: transparent;
+    margin-top:150px;
+    margin-left:115px;
+    border: 0cm;
+    color: gray;
+}
+
+.searchbutton{
+    background-color: transparent;
+    color:gray;
+    border: 0ch;
+}
+
+.icon{
+    color: gray;
+    margin-left: 100px;
+}
