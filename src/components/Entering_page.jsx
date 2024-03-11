@@ -38,7 +38,7 @@ const Entering_page = () => {
                 method: 'GET',
                 headers: {
                     'X-RapidAPI-Host': 'open-weather13.p.rapidapi.com',
-                    'X-RapidAPI-Key': 'ed77bf7367msh874e77d941ebdd3p15d1c4jsna78a860c1a74',
+                    'X-RapidAPI-Key': '53629ac668msh9c5fa0b8740e7f3p151fd1jsn05e8b1604eae',
                 }
             });
 
